@@ -12,7 +12,7 @@ function UsestateTodo() {
     }
 
     const RemoveItem  = (i)=>{
-          list.pop(i,1)
+          list.splice(i,1)
           setList([...list])
     }
 
