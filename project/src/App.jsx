@@ -5,6 +5,7 @@ import Usestateobj2 from './components/Usestateobj2'
 import UsestateTodo from './components/UsestateTodo'
 import Todopractise from './components/Todopractise'
 import Useeffect from './components/Useeffect'
+import FormusingState from './components/FormusingState'
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <UsestateTodo/>
       <Todopractise/>
       <Useeffect/>
+      <FormusingState/>
+      
     </div>
   )
 }
