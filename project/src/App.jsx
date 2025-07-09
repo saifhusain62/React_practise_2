@@ -6,6 +6,7 @@ import UsestateTodo from './components/UsestateTodo'
 import Todopractise from './components/Todopractise'
 import Useeffect from './components/Useeffect'
 import FormusingState from './components/FormusingState'
+import Promises_API from './components/Promises_API'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Todopractise/>
       <Useeffect/>
       <FormusingState/>
+      <Promises_API/>
       
     </div>
   )
