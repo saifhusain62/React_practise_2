@@ -7,6 +7,7 @@ import Todopractise from './components/Todopractise'
 import Useeffect from './components/Useeffect'
 import FormusingState from './components/FormusingState'
 import Promises_API from './components/Promises_API'
+import Async_API from './components/Async_API'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Useeffect/>
       <FormusingState/>
       <Promises_API/>
+      <Async_API/>
       
     </div>
   )
